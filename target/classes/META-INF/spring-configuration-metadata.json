@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "name": "oss",
+      "type": "com.oss.demo.properties.OssProperties",
+      "sourceType": "com.oss.demo.properties.OssProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "oss.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.oss.demo.properties.OssProperties"
+    },
+    {
+      "name": "oss.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.oss.demo.properties.OssProperties"
+    },
+    {
+      "name": "oss.bucket",
+      "type": "java.lang.String",
+      "description": "空间名称",
+      "sourceType": "com.oss.demo.properties.OssProperties"
+    },
+    {
+      "name": "oss.directory",
+      "type": "java.lang.String",
+      "sourceType": "com.oss.demo.properties.OssProperties"
+    },
+    {
+      "name": "oss.endpoint",
+      "type": "java.lang.String",
+      "description": "OSS对应的区域",
+      "sourceType": "com.oss.demo.properties.OssProperties"
+    }
+  ],
+  "hints": []
+}

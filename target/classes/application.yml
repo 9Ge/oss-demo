@@ -1,0 +1,6 @@
+oss:
+  bucket: yangcheng-nengyu
+  accessKeyId: LTAI5tHJFK1Tdw2YGdP1S1pX
+  accessKeySecret: kjbhuVBCHzzTRLVEqRjrec6K9R8us7
+  endpoint: oss-cn-beijing.aliyuncs.com
+  directory: oss/dir1/
