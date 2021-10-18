@@ -1,6 +1,6 @@
 oss:
   bucket: ***
-  accessKeyId: LTAI5tHJFK1Tdw2YGdP1S***
-  accessKeySecret: kjbhuVBCHzzTRLVEqRjrec6K9R***
+  accessKeyId: 8***
+  accessKeySecret: 8**
   endpoint: oss-cn-beijing.*****
-  directory: oss/dir1/
+  directory: oss/dir222/
